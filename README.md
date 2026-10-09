@@ -34,4 +34,4 @@ ingenieria-atributos-ml/
 
 ## Autora
 
-**Constanz
+**Constanza Bencharski
