@@ -10,7 +10,7 @@ Todos los trabajos usan el dataset [Loan Data](https://www.kaggle.com/datasets/i
 | # | Proyecto | Temas | Modelo |
 |---|---|---|---|
 | 1 | [Selección de atributos: predicción de préstamos impagos](./tarea1-naive-bayes) | Clases desbalanceadas, *undersampling*, selección de atributos, métricas de clasificación | Naive Bayes |
-| 2 | [Tuning de SVM y MLP: retorno de inversión en préstamos](./tarea2-SVM-MLP) | Búsqueda de hiperparámetros (GridSearchCV), redes neuronales, sobreajuste, métrica de negocio (ROI) | SVM (RBF), MLP |
+| 2 | [Tuning de SVM y MLP: retorno de inversión en préstamos](./tarea2-svm-mlp) | Búsqueda de hiperparámetros (GridSearchCV), redes neuronales, sobreajuste, métrica de negocio (ROI) | SVM (RBF), MLP |
 | 3 | *Próximamente* | | |
 
 ## Tecnologías
