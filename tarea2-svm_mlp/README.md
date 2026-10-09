@@ -1,6 +1,6 @@
 # Tarea 2: Tuning de SVM y MLP
 
-Trabajo práctico de la materia **Ingeniería de atributos y modelos para ML** (FaMAF, Universidad Nacional de Córdoba, 2024).
+Trabajo práctico de la materia **Ingeniería de atributos y modelos para ML** (FAMAF, Universidad Nacional de Córdoba, 2024).
 
 El objetivo es predecir si un préstamo de Lending Club **no será pagado en término** (`not.fully.paid`), ajustando los hiperparámetros de una SVM con kernel RBF y de un perceptrón multicapa (MLP). Después se evalúan los modelos con una métrica de negocio: el retorno por préstamo (ROI) de un prestamista.
 
